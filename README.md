@@ -2,14 +2,14 @@
 
 I’m a computer science engineer from Paris, France.
 
-Among other things, I have previously built [Joule.Host 🔥](https://Joule.Host)
-and [SurveyHouse 🏠](https://SurveyHouse.app),
-and currently I'm working on [Stake.Green 🌍](https://Stake.Green).
+Among other things, I have previously built [Joule.Host 🔥](https://Joule.Host),
+[SurveyHouse 🏠](https://SurveyHouse.app), and currently I'm working on
+[Stake.Green 🌍](https://Stake.Green).
 
 ### More about me:
 
-- **Web2**: <https://alexandre.jouand.in>
-- **Web3**: [ipns://alexandre.jouand.in](https://alexandre-jouand-in.ipns.dweb.link)
+- **Web2**: [https://Alexandre.World](https://www.Alexandre.World)
+- **Web3**: [ipns://Alexandre.World](https://web3.Alexandre.World)
 - **GitLab**: [@Allezxandre](https://gitlab.com/Allezxandre)
 
 <!--
